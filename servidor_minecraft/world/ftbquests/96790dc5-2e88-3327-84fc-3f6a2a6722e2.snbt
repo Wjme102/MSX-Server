@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "96790dc52e88332784fc3f6a2a6722e2"
+	name: "JugoRica#96790dc5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,458 @@
+[06:45:52] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[06:45:52] [INIT] Loaded plugins:
+[06:45:52] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[06:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[06:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[06:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[06:45:52] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[06:45:52] [INIT] - com.almostreliable.morejs.Plugin
+[06:45:52] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[06:45:53] [INFO] Loaded script server_scripts:ruby chandelier.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.10.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:trim fix.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:bow recipes.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:enchanting fix.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.7.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.1.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:starlit fix.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:eeeabmobs.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.8.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:starlit factory recipe.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.3.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.4.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:compass.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:rose gold.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:waystone fix.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.2.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:furnace.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:enchanting infuser.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.5.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:diamond.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:smithing templates 2.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:spiky shield.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:smithing templates.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:trade fix.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.6.js in 0.003 s
+[06:45:53] [INFO] Loaded script server_scripts:armor.js in 0.001 s
+[06:45:53] [INFO] Loaded script server_scripts:removed.js in 0.0 s
+[06:45:53] [INFO] Loaded script server_scripts:conflicts fix.9.js in 0.002 s
+[06:45:53] [INFO] Loaded script server_scripts:copper.js in 0.0 s
+[06:45:53] [INFO] Loaded 30/30 KubeJS server scripts in 0.052 s with 0 errors and 0 warnings
+[06:45:53] [INFO] Scripts loaded
+[06:45:53] [INFO] Initializing recipe event...
+[06:45:53] [INFO] Server resource reload complete!
+[06:45:53] [INFO] [minecraft:item] Found 1633 tags, added 0 objects, removed 20 objects
+[06:45:53] [INFO] [minecraft:block] Found 1180 tags, added 3 objects, removed 2 objects
+[06:45:57] [INFO] Processing recipes...
+[06:45:57] [WARN] Failed to parse recipe 'ender_dragon_loot_:dragon_hoe_upgrade[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'bygonenether:stonecutting/cracked_withered_blackstone_vertical_slab_from_cracked_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'exlinecopperequipment:copper_hammer_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'celestisynth:celestial_spellbook[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'vivecraft:jumpboots[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'bygonenether:stonecutting/withered_blackstone_vertical_slab_from_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'vivecraft:climbclaws[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'bygonenether:stonecutting/warped_nether_brick_vertical_slab_from_warped_nether_bricks_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'legendary_monsters:dinosaur_bone_meal[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'netherexp:stonecutting/from_pale_soul_slate/indented[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [WARN] Failed to parse recipe 'shieldexp:griefer_shield[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[06:45:57] [INFO] Found 12488 recipes in 112.2 ms
+[06:45:57] [INFO] Posted recipe events in 14.85 ms
+[06:45:57] [WARN] Error parsing recipe shutter:pine_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:pine_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe legendary_monsters:ancient_dripstone_brick_stairs_left[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["   ","   ","   "],"key":{},"result":{"item":"legendary_monsters:ancient_dripstone_brick_stairs","count":4}}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe shutter:plum_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:plum_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:ancient_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:ancient_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN] Error parsing recipe shutter:willow_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:willow_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN] Error parsing recipe legendary_monsters:dinosaur_bone_meal[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":{"item":"legendary_monsters:dinosaur_bone"}},"result":{"item":"legendary_monsters:dinosaur_bone_meal","count":6}}: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311)
+[06:45:57] [WARN] Error parsing recipe exlinecopperequipment:copper_hammer_recipe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["BBB","BSB"," S "],"key":{"B":{"item":"minecraft:copper_ingot"},"S":{"item":"minecraft:stick"}},"result":{"item":"warhammersmod:hammer_copper"}}: Unknown item 'warhammersmod:hammer_copper'
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'warhammersmod:hammer_copper'
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:wisteria_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:wisteria_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe shutter:muddy_oak_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:muddy_oak_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292)
+[06:45:57] [WARN]   at java.util.Optional.orElseThrow(Optional.java:403)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe shieldexp:griefer_shield[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["XXX","XIX","XXX"],"key":{"X":{"item":"savage_and_ravage:blast_proof_plating"},"I":{"item":"minecraft:stick"}},"result":{"item":"shieldexp:griefer_shield"}}: Unknown item 'savage_and_ravage:blast_proof_plating'
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292)
+[06:45:57] [WARN]   at java.util.Optional.orElseThrow(Optional.java:403)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe everycomp:fd/cutting/witherstormmod/tainted_hanging_sign[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"witherstormmod:tainted_hanging_sign"}],"result":[{"item":"witherstormmod:tainted_planks"}],"tool":{"type":"farmersdelight:tool_action","action":"axe_dig"}}: Unknown item 'witherstormmod:tainted_hanging_sign'
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'witherstormmod:tainted_hanging_sign'
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292)
+[06:45:57] [WARN]   at java.util.Optional.orElseThrow(Optional.java:403)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189)
+[06:45:57] [WARN]   at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.readIngredients(CuttingBoardRecipe.java:195)
+[06:45:57] [WARN]   at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:172)
+[06:45:57] [WARN]   at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.m_6729_(CuttingBoardRecipe.java:164)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:maple_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:maple_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] Error parsing recipe shutter:palm_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:palm_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe shutter:blossom_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:blossom_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:cypress_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:cypress_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:poise_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:poise_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:azure_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   "],"result":{"count":2,"item":"shutter:azure_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN] Error parsing recipe shutter:azalea_quark_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["   ","   "],"key":{},"result":{"item":"shutter:azalea_quark_shutter","count":4}}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe celestisynth:celestial_spellbook[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"equipment","key":{"b":{"item":"irons_spellbooks:ruined_book"},"c":{"item":"celestisynth:celestial_core_heated"},"p":{"item":"minecraft:paper"},"x":{"item":"celestisynth:celestial_netherite_ingot"}},"pattern":["xcx","xbp","xcx"],"result":{"item":"celestisynth:celestial_spell_book"},"show_notification":true}: Unknown item 'irons_spellbooks:ruined_book'
+[06:45:57] [WARN] com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:ruined_book'
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292)
+[06:45:57] [WARN]   at java.util.Optional.orElseThrow(Optional.java:403)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27)
+[06:45:57] [WARN]   at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [WARN] Error parsing recipe shutter:gingerbread_shutter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["  ","  "],"result":{"count":4,"item":"shutter:gingerbread_shutter"},"show_notification":true}: Index 0 out of bounds for length 0
+[06:45:57] [WARN] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:308)
+[06:45:57] [WARN]   at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301)
+[06:45:57] [WARN]   at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23)
+[06:45:57] [WARN]   at …kubejs.platform.forge.RecipeForgeHelper.fromJson(RecipeForgeHelper.java:28)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipeJS.createRecipe(RecipeJS.java:515)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.createRecipe(RecipesEventJS.java:446)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+[06:45:57] [WARN]   at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290)
+[06:45:57] [WARN]   at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159)
+[06:45:57] [WARN]   at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173)
+[06:45:57] [WARN]   at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+[06:45:57] [WARN]   at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:679)
+[06:45:57] [WARN]   at …kubejs.recipe.RecipesEventJS.lambda$post$6(RecipesEventJS.java:384)
+[06:45:57] [INFO] Added 217 recipes, removed 125 recipes, modified 636 recipes, with 21 failed recipes in 356.2 ms
+[06:46:58] [INFO] Server resource reload complete!

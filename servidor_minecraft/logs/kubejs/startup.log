@@ -1,0 +1,12 @@
+[06:45:24] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[06:45:24] [INIT] Loaded plugins:
+[06:45:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[06:45:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[06:45:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[06:45:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[06:45:24] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[06:45:24] [INIT] - com.almostreliable.morejs.Plugin
+[06:45:24] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[06:45:25] [INFO] Loaded script startup_scripts:armor fix.js in 0.155 s
+[06:45:25] [INFO] Loaded script startup_scripts:starlit fix 1.js in 0.001 s
+[06:45:25] [INFO] Loaded 2/2 KubeJS startup scripts in 0.674 s with 0 errors and 0 warnings

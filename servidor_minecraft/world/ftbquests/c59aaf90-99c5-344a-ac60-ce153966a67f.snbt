@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c59aaf9099c5344aac60ce153966a67f"
+	name: "PerrinDx#c59aaf90"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

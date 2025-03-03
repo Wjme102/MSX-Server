@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1a5d7d7ca48e37ff8bb2293eaf0aecdb"
+	name: "DecayInc#1a5d7d7c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
