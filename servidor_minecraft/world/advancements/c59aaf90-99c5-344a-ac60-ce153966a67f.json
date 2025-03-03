@@ -149,12 +149,6 @@
     },
     "done": true
   },
-  "restrictedportals:root": {
-    "criteria": {
-      "root": "2025-03-03 06:48:02 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-03-03 06:48:00 +0000"
@@ -221,12 +215,6 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/root": {
-    "criteria": {
-      "enter_badlands": "2025-03-03 06:48:03 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-03-03 06:48:00 +0000"
@@ -238,12 +226,6 @@
       "has_wheel": "2025-03-03 06:48:00 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
-    },
-    "done": false
   },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
@@ -440,12 +422,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
-    },
-    "done": false
-  },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2025-03-03 06:48:00 +0000"
@@ -461,12 +437,6 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-03-03 06:48:00 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/enter_badlands": {
-    "criteria": {
-      "enter_badlands1": "2025-03-03 06:48:03 +0000"
     },
     "done": true
   },
@@ -560,12 +530,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
-    },
-    "done": false
-  },
   "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
     "criteria": {
       "has_template": "2025-03-03 06:48:00 +0000"
@@ -639,18 +603,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:badlands": "2025-03-03 06:48:03 +0000"
-    },
-    "done": false
-  },
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
       "has_template": "2025-03-03 06:48:00 +0000"
@@ -673,6 +625,66 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-03-03 06:48:00 +0000"
+    },
+    "done": true
+  },
+  "restrictedportals:root": {
+    "criteria": {
+      "root": "2025-03-03 06:48:02 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_badlands": "2025-03-03 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/enter_badlands": {
+    "criteria": {
+      "enter_badlands1": "2025-03-03 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 06:48:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2025-03-03 06:48:03 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-03-03 06:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-03 06:54:01 +0000"
     },
     "done": true
   },

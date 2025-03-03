@@ -5,7 +5,22 @@
   "player_scaling": {
     "96790dc5-2e88-3327-84fc-3f6a2a6722e2": {},
     "c59aaf90-99c5-344a-ac60-ce153966a67f": {},
-    "1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb": {}
+    "1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb": {},
+    "92ec79e2-b700-3d72-9733-66d81f72a980": {}
   },
-  "skins": {}
+  "skins": {},
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "motion": {},
+    "mob_visibility": {},
+    "defense": {},
+    "attack_knockback": {},
+    "flight_speed": {},
+    "step_height": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "attack_speed": {},
+    "attack_dmg": {}
+  }
 }

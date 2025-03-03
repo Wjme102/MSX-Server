@@ -6351,3 +6351,76 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [03Mar2025 06:52:30.159] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DecayInc
 [03Mar2025 06:53:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx has made the advancement [Is this... blood?]
 [03Mar2025 06:54:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Baby Skeleton
+[03Mar2025 06:56:20.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerrinCXD[/100.95.133.8:62275] logged in with entity id 1365 at (-8.5, 93.0, 21.5)
+[03Mar2025 06:56:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD joined the game
+[03Mar2025 06:56:20.266] [Server thread/INFO] [Jade/]: Syncing config to PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980)
+[03Mar2025 06:56:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD has made the advancement [Restricted Portals]
+[03Mar2025 06:56:22.275] [Server thread/INFO] [ping-wheel/]: Channel update: PerrinCXD -> default
+[03Mar2025 06:56:22.282] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PerrinCXD (18)
+[03Mar2025 06:56:22.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PerrinCXD
+[03Mar2025 06:56:29.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 06:56:30.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 06:56:30.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980) successfully connected to voice chat
+[03Mar2025 06:56:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD has made the advancement [Alex's Mobs]
+[03Mar2025 06:57:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD has made the advancement [Is this... blood?]
+[03Mar2025 06:57:50.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4316fa57[id=<null>,name=DecayInc,properties={},legacy=false] (/100.80.26.2:63993) lost connection: Timed out
+[03Mar2025 06:57:58.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DecayInc[/100.80.26.2:64004] logged in with entity id 1842 at (8.57902761376506, 93.0, 26.306479668457158)
+[03Mar2025 06:57:58.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DecayInc joined the game
+[03Mar2025 06:57:58.597] [Server thread/INFO] [Jade/]: Syncing config to DecayInc (1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb)
+[03Mar2025 06:57:59.929] [Server thread/INFO] [ping-wheel/]: Channel update: DecayInc -> default
+[03Mar2025 06:57:59.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DecayInc (18)
+[03Mar2025 06:57:59.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DecayInc
+[03Mar2025 06:58:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD was shot by Skeleton
+[03Mar2025 06:58:04.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb
+[03Mar2025 06:58:05.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb
+[03Mar2025 06:58:05.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DecayInc (1a5d7d7c-a48e-37ff-8bb2-293eaf0aecdb) successfully connected to voice chat
+[03Mar2025 06:58:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Zombie
+[03Mar2025 06:58:40.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerrinCXD lost connection: Disconnected
+[03Mar2025 06:58:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD left the game
+[03Mar2025 06:58:40.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PerrinCXD
+[03Mar2025 06:58:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DecayInc has made the advancement [Is this... blood?]
+[03Mar2025 06:59:01.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DecayInc was slain by Corpse Fish
+[03Mar2025 06:59:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Spider
+[03Mar2025 06:59:35.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Door Knight
+[03Mar2025 06:59:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Restless Spirit
+[03Mar2025 07:00:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DecayInc was slain by Badlands Enderman
+[03Mar2025 07:00:42.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerrinDx lost connection: Timed out
+[03Mar2025 07:00:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx left the game
+[03Mar2025 07:00:42.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PerrinDx
+[03Mar2025 07:00:42.600] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Mar2025 07:00:47.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerrinCXD[/100.95.133.8:62412] logged in with entity id 2684 at (-13.396539349873596, 62.0, 37.158505706415966)
+[03Mar2025 07:00:47.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD joined the game
+[03Mar2025 07:00:47.933] [Server thread/INFO] [Jade/]: Syncing config to PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980)
+[03Mar2025 07:00:48.760] [Server thread/INFO] [ping-wheel/]: Channel update: PerrinCXD -> default
+[03Mar2025 07:00:48.760] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PerrinCXD (18)
+[03Mar2025 07:00:48.760] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PerrinCXD
+[03Mar2025 07:00:51.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 07:00:52.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 07:00:52.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980) successfully connected to voice chat
+[03Mar2025 07:01:00.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerrinDx[/100.78.221.74:53172] logged in with entity id 2773 at (-17.69999998807907, 89.275125, 17.988574530405653)
+[03Mar2025 07:01:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx joined the game
+[03Mar2025 07:01:00.384] [Server thread/INFO] [Jade/]: Syncing config to PerrinDx (c59aaf90-99c5-344a-ac60-ce153966a67f)
+[03Mar2025 07:01:04.932] [Server thread/INFO] [ping-wheel/]: Channel update: PerrinDx -> default
+[03Mar2025 07:01:04.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PerrinDx (18)
+[03Mar2025 07:01:04.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PerrinDx
+[03Mar2025 07:01:10.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c59aaf90-99c5-344a-ac60-ce153966a67f
+[03Mar2025 07:01:11.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c59aaf90-99c5-344a-ac60-ce153966a67f
+[03Mar2025 07:01:11.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PerrinDx (c59aaf90-99c5-344a-ac60-ce153966a67f) successfully connected to voice chat
+[03Mar2025 07:01:16.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerrinCXD lost connection: Disconnected
+[03Mar2025 07:01:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD left the game
+[03Mar2025 07:01:16.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PerrinCXD
+[03Mar2025 07:01:58.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Decrepit Skeleton
+[03Mar2025 07:02:12.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerrinCXD[/100.95.133.8:62433] logged in with entity id 2958 at (-14.22567120144592, 63.0, 35.94227440966815)
+[03Mar2025 07:02:12.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD joined the game
+[03Mar2025 07:02:12.337] [Server thread/INFO] [Jade/]: Syncing config to PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980)
+[03Mar2025 07:02:13.010] [Server thread/INFO] [ping-wheel/]: Channel update: PerrinCXD -> default
+[03Mar2025 07:02:13.011] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PerrinCXD (18)
+[03Mar2025 07:02:13.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PerrinCXD
+[03Mar2025 07:02:15.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 07:02:16.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 92ec79e2-b700-3d72-9733-66d81f72a980
+[03Mar2025 07:02:16.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PerrinCXD (92ec79e2-b700-3d72-9733-66d81f72a980) successfully connected to voice chat
+[03Mar2025 07:02:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Door Knight
+[03Mar2025 07:02:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD was slain by Zombie
+[03Mar2025 07:02:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinCXD was slain by Door Knight
+[03Mar2025 07:03:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Decaying Zombie
+[03Mar2025 07:03:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerrinDx was slain by Baby Skeleton

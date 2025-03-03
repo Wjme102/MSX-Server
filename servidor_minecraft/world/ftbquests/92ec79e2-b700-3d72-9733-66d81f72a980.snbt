@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "92ec79e2b7003d72973366d81f72a980"
+	name: "PerrinCXD#92ec79e2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
