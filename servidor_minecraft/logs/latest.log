@@ -6646,3 +6646,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 20:17:10.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
 [08Mar2025 20:17:10.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
 [08Mar2025 20:17:19.564] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:27:37.310] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:27:46.166] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:28:06.262] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:28:18.568] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:28:19.630] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:29:01.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:29:03.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:29:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica died from life stealing
+[08Mar2025 20:29:18.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:29:18.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:29:40.069] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:29:41.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:30:14.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[08Mar2025 20:30:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[08Mar2025 20:30:14.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[08Mar2025 20:30:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica withered away
+[08Mar2025 20:31:00.597] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:31:00.608] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:31:10.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:62577] logged in with entity id 22059 at (2313.593287050395, 66.0, -174.28299594289385)
+[08Mar2025 20:31:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[08Mar2025 20:31:10.746] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:31:10.778] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[08Mar2025 20:31:11.400] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[08Mar2025 20:31:11.400] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[08Mar2025 20:31:11.401] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[08Mar2025 20:31:13.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:31:14.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:31:14.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[08Mar2025 20:31:29.761] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
