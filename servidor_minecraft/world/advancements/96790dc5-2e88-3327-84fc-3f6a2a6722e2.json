@@ -8889,6 +8889,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat_from_smoking": {
     "criteria": {
       "crab_meat": "2025-03-08 21:11:06 +0000"
@@ -8922,6 +8928,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -8970,6 +8982,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9057,6 +9075,12 @@
     },
     "done": true
   },
+  "shutter:recipes/misc/birch_shutter": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
@@ -9066,6 +9090,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-03-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9150,6 +9180,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9249,9 +9285,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_boards": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9297,6 +9345,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9306,6 +9360,12 @@
   "rubinated_nether:recipes/misc/wisp_from_experience": {
     "criteria": {
       "has_xp": "2025-03-08 21:21:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9411,9 +9471,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9426,6 +9498,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9459,6 +9537,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
@@ -9468,6 +9552,12 @@
   "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
       "has_bandage": "2025-03-08 21:10:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
@@ -9537,6 +9627,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9582,6 +9678,12 @@
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-08 21:59:50 +0000"
     },
     "done": true
   },
