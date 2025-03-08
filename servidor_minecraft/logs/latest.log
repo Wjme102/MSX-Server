@@ -6390,3 +6390,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 18:42:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Isn't It Iron Pick]
 [08Mar2025 18:47:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4Ismael> @
 [08Mar2025 18:51:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Wax Off]
+[08Mar2025 19:00:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Barrel Booty]
+[08Mar2025 19:00:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Sweet Dreams]
+[08Mar2025 19:00:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Amateur Archaeologist]
+[08Mar2025 19:02:40.746] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/7560, l='ServerLevel[world]', x=2199.52, y=9.00, z=-28.19, removed=DISCARDED]
+[08Mar2025 19:02:40.746] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/7560, l='ServerLevel[world]', x=2199.52, y=9.00, z=-28.19, removed=DISCARDED]
+[08Mar2025 19:02:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Double Trouble]
+[08Mar2025 19:02:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has completed the challenge [What a Nugget, Once Again!]
+[08Mar2025 19:03:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Deceived Hopes]
+[08Mar2025 19:04:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Double Trouble]
+[08Mar2025 19:04:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [The Wind Darkening]
+[08Mar2025 19:05:52.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Multi-Disciplined]
+[08Mar2025 19:07:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by Zombie
