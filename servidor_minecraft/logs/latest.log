@@ -6961,3 +6961,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 22:41:35.913] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
 [08Mar2025 22:41:42.034] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
 [08Mar2025 22:43:59.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Voluntary Exile]
+[08Mar2025 23:08:00.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [A Seedy Place]
