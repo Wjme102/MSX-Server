@@ -662,6 +662,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-08 20:35:15 +0000",
       "minecraft:taiga": "2025-03-08 20:34:38 +0000",
+      "minecraft:deep_ocean": "2025-03-08 20:43:45 +0000",
       "minecraft:beach": "2025-03-08 19:32:09 +0000",
       "minecraft:river": "2025-03-08 18:28:00 +0000",
       "minecraft:cold_ocean": "2025-03-08 20:35:54 +0000",
@@ -5113,6 +5114,7 @@
       "minecraft:slime": "2025-03-08 19:41:25 +0000",
       "minecraft:husk": "2025-03-08 19:33:30 +0000",
       "minecraft:stray": "2025-03-08 19:30:44 +0000",
+      "minecraft:enderman": "2025-03-08 20:43:01 +0000",
       "minecraft:zombie": "2025-03-08 19:15:44 +0000"
     },
     "done": false
@@ -6576,6 +6578,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-08 20:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
@@ -6591,6 +6599,12 @@
   "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
     "criteria": {
       "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-08 20:46:45 +0000"
     },
     "done": true
   },
@@ -6651,6 +6665,12 @@
   "woodworks:recipes/building_blocks/oak_bookshelf": {
     "criteria": {
       "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-03-08 20:45:06 +0000"
     },
     "done": true
   },

@@ -6698,3 +6698,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [08Mar2025 20:41:40.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29320, l='ServerLevel[world]', x=3384.50, y=58.00, z=176.50]
+[08Mar2025 20:42:24.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Dark Metallurgy]
+[08Mar2025 20:45:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Amateur Archaeologist]
+[08Mar2025 20:45:35.491] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3716, y=238, z=33} from item 0 air and block carrot: 
+[08Mar2025 20:45:40.038] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3722, y=236, z=27} from item 0 air and block carrot: 
+[08Mar2025 20:45:43.287] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3720, y=236, z=24} from item 0 air and block carrot: 
+[08Mar2025 20:47:10.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica was kicked for floating too long!
+[08Mar2025 20:47:10.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica lost connection: Flying is not enabled on this server
+[08Mar2025 20:47:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica left the game
+[08Mar2025 20:47:10.914] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JugoRica
+[08Mar2025 20:47:10.969] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Mar2025 20:47:38.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JugoRica[/100.100.23.46:65530] logged in with entity id 30958 at (3739.4205739116373, 92.46476221959249, 1.7168099024141683)
+[08Mar2025 20:47:38.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica joined the game
+[08Mar2025 20:47:38.715] [Server thread/INFO] [Jade/]: Syncing config to JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2)
+[08Mar2025 20:47:38.890] [Server thread/INFO] [ping-wheel/]: Channel update: JugoRica -> default
+[08Mar2025 20:47:38.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JugoRica (18)
+[08Mar2025 20:47:38.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JugoRica
+[08Mar2025 20:47:42.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[08Mar2025 20:47:43.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[08Mar2025 20:47:43.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2) successfully connected to voice chat
+[08Mar2025 20:48:48.087] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3742, y=237, z=4} from item 0 air and block carrot: 
+[08Mar2025 20:49:13.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31466, l='ServerLevel[world]', x=3752.50, y=49.00, z=118.50]
+[08Mar2025 20:50:19.602] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:50:19.707] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:50:21.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32578, l='ServerLevel[world]', x=4063.50, y=79.00, z=321.50]
+[08Mar2025 20:50:34.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32705, l='ServerLevel[world]', x=4053.50, y=72.00, z=334.50]
+[08Mar2025 20:50:35.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32710, l='ServerLevel[world]', x=4198.50, y=71.00, z=317.50]
+[08Mar2025 20:50:44.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32720, l='ServerLevel[world]', x=4052.50, y=72.00, z=336.50]
+[08Mar2025 20:51:04.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32804, l='ServerLevel[world]', x=4091.50, y=73.00, z=297.50]
+[08Mar2025 20:51:35.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32970, l='ServerLevel[world]', x=4192.50, y=75.00, z=304.50]
+[08Mar2025 20:51:48.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33052, l='ServerLevel[world]', x=4063.50, y=79.00, z=323.50]
+[08Mar2025 20:52:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Bloodthirsty]
