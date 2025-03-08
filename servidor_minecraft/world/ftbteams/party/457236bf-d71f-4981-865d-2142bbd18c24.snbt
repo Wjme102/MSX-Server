@@ -4,6 +4,7 @@
 	owner: "96790dc5-2e88-3327-84fc-3f6a2a6722e2"
 	ranks: {
 		96790dc5-2e88-3327-84fc-3f6a2a6722e2: "owner"
+		ee067c79-5b7e-3579-bb04-31c843186f08: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "Niggas Incorporated"
@@ -28,6 +29,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1741458181059L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JugoRica\"}]}" }
 		{ from: "96790dc5-2e88-3327-84fc-3f6a2a6722e2", date: 1741458354168L, text: "{\"text\":\"lol\"}" }
 		{ from: "96790dc5-2e88-3327-84fc-3f6a2a6722e2", date: 1741458851911L, text: "{\"text\":\"help\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1741458932368L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"4Ismael\"}]}" }
 	]
 	extra: { }
 }

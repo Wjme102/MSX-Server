@@ -6377,3 +6377,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 18:35:32.372] [Server thread/INFO] [FTB Chunks/]: Team Niggas_Incorporated#457236bf had 0 claimed chunks, now has 2
 [08Mar2025 18:38:44.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by Spider
 [08Mar2025 18:39:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[08Mar2025 18:39:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Mar2025 18:39:37.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp @a<--[HERE]
+[08Mar2025 18:39:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[08Mar2025 18:39:50.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2 entities to JugoRica
+[08Mar2025 18:39:50.395] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 18:39:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by JugoRica
+[08Mar2025 18:40:00.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2 entities to JugoRica
+[08Mar2025 18:40:00.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 18:41:46.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Acquire Hardware]
+[08Mar2025 18:42:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement ['X' Marks the Spot]
+[08Mar2025 18:42:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Isn't It Iron Pick]
+[08Mar2025 18:47:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <4Ismael> @

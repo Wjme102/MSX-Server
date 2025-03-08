@@ -2,9 +2,7 @@
 	id: "ee067c79-5b7e-3579-bb04-31c843186f08"
 	type: "player"
 	player_name: "4Ismael"
-	ranks: {
-		ee067c79-5b7e-3579-bb04-31c843186f08: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "4Ismael"
 		"ftbteams:description": ""
