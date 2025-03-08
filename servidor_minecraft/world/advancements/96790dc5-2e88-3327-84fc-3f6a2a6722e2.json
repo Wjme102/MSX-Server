@@ -666,6 +666,7 @@
       "minecraft:beach": "2025-03-06 00:30:40 +0000",
       "minecraft:dark_forest": "2025-03-06 00:41:43 +0000",
       "minecraft:river": "2025-03-06 00:20:28 +0000",
+      "minecraft:stony_shore": "2025-03-08 21:23:51 +0000",
       "minecraft:cold_ocean": "2025-03-06 02:09:07 +0000",
       "minecraft:forest": "2025-03-06 00:13:16 +0000",
       "minecraft:deep_cold_ocean": "2025-03-06 02:09:34 +0000",
@@ -8875,6 +8876,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat_from_smoking": {
     "criteria": {
       "crab_meat": "2025-03-08 21:11:06 +0000"
@@ -8893,15 +8900,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_wood": {
     "criteria": {
       "has_log": "2025-03-08 21:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
     },
     "done": true
   },
@@ -8914,6 +8951,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-03-08 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
     },
     "done": true
   },
@@ -8947,6 +8990,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
@@ -8965,15 +9020,45 @@
     },
     "done": true
   },
+  "rubinated_nether:recipes/misc/wisp_from_experience": {
+    "criteria": {
+      "has_xp": "2025-03-08 21:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2025-03-08 21:10:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
     },
     "done": true
   },
@@ -9013,9 +9098,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
       "has_cloth": "2025-03-08 21:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-08 21:23:32 +0000"
     },
     "done": true
   },
@@ -9052,6 +9167,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-08 21:23:32 +0000"
     },
     "done": true
   },
