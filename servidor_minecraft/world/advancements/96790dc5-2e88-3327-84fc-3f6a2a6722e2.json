@@ -8869,5 +8869,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-08 21:04:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-03-08 21:10:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
