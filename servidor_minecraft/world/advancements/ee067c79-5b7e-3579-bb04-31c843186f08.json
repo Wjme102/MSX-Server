@@ -6190,6 +6190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-08 19:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-08 19:47:50 +0000"
@@ -6232,6 +6238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-08 19:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-03-08 19:49:11 +0000"
@@ -6259,6 +6271,12 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-08 19:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-08 19:53:07 +0000"
     },
     "done": true
   },
@@ -6298,6 +6316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-08 19:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-08 19:49:11 +0000"
@@ -6322,6 +6346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-08 19:52:56 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/bamboo_fence_gate_from_bamboo": {
     "criteria": {
       "has_planks": "2025-03-08 19:49:11 +0000"
@@ -6337,6 +6367,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-08 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-08 19:59:34 +0000"
     },
     "done": true
   },
@@ -6379,6 +6415,12 @@
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-03-08 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-03-08 19:52:56 +0000"
     },
     "done": true
   },
