@@ -4384,6 +4384,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-03-06 01:06:56 +0000",
+      "blastfurnace": "2025-03-08 22:40:29 +0000",
       "stonecutter": "2025-03-08 21:42:44 +0000"
     },
     "done": false
@@ -8961,6 +8962,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-08 22:43:59 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
     "criteria": {
       "crab_meat": "2025-03-08 21:11:06 +0000"
@@ -9258,6 +9265,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-08 22:40:28 +0000"
     },
     "done": true
   },
