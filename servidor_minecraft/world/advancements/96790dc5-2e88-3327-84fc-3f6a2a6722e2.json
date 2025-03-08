@@ -9011,6 +9011,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-03-08 23:10:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
