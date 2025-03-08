@@ -7286,6 +7286,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-03-08 21:48:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:35:37 +0000"
