@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ee067c795b7e3579bb0431c843186f08"
+	name: "4Ismael#ee067c79"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

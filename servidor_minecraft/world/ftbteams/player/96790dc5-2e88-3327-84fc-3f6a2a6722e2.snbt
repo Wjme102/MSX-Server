@@ -2,13 +2,11 @@
 	id: "96790dc5-2e88-3327-84fc-3f6a2a6722e2"
 	type: "player"
 	player_name: "JugoRica"
-	ranks: {
-		96790dc5-2e88-3327-84fc-3f6a2a6722e2: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "JugoRica"
 		"ftbteams:description": ""
-		"ftbteams:color": "#90FF59"
+		"ftbteams:color": "#B859FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
