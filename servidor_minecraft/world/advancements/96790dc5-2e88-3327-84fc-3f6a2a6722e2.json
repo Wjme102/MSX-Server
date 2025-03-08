@@ -8901,6 +8901,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-08 21:30:55 +0000"
@@ -8934,6 +8940,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9009,9 +9021,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-08 21:33:42 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9042,6 +9066,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9081,6 +9111,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "shutter:recipes/misc/birch_shutter": {
     "criteria": {
       "has_birch_slab": "2025-03-08 21:59:50 +0000"
@@ -9105,6 +9141,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9120,6 +9162,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9171,6 +9219,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-08 21:33:42 +0000"
@@ -9195,9 +9249,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-03-08 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9231,6 +9297,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9249,6 +9321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-08 22:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-08 21:30:55 +0000"
@@ -9258,6 +9336,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-03-08 21:33:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9273,9 +9357,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_planks": {
     "criteria": {
       "has_logs": "2025-03-08 21:13:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9321,6 +9417,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
@@ -9339,9 +9453,27 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9399,6 +9531,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2025-03-08 21:10:08 +0000"
@@ -9417,9 +9555,27 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9453,6 +9609,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9471,9 +9639,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9597,6 +9777,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9630,6 +9816,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
@@ -9675,6 +9867,24 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
@@ -9684,6 +9894,24 @@
   "rubinated_nether:recipes/misc/molten_ruby_glass": {
     "criteria": {
       "has_glass": "2025-03-08 21:33:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9699,9 +9927,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9747,9 +9987,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
     },
     "done": true
   },
@@ -9789,6 +10041,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
       "has_cloth": "2025-03-08 21:10:39 +0000"
@@ -9801,6 +10059,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-03-08 22:40:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 21:16:17 +0000"
@@ -9810,6 +10074,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-08 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 22:37:28 +0000"
     },
     "done": true
   },
