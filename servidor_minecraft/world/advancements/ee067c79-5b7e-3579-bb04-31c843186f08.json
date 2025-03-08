@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-08 18:41:46 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-08 18:45:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-08 18:41:46 +0000"
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-03-08 18:51:42 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
       "has_iron_nugget": "2025-03-08 18:41:46 +0000"
@@ -995,6 +1013,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-03-08 18:22:14 +0000"
@@ -1004,6 +1028,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-08 18:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1193,6 +1223,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-03-08 18:22:15 +0000"
@@ -1202,6 +1238,12 @@
   "upgrade_aquatic:recipes/decorations/driftwood_ladder": {
     "criteria": {
       "has_stick": "2025-03-08 18:29:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1301,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-08 18:36:30 +0000"
@@ -1368,6 +1416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-08 18:45:45 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-03-08 18:22:14 +0000"
@@ -1392,6 +1446,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-08 18:47:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-08 18:36:30 +0000"
@@ -1401,6 +1461,12 @@
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-03-08 18:41:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1473,6 +1539,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-08 18:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1608,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-03-08 18:41:46 +0000"
@@ -1617,6 +1695,12 @@
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-08 18:29:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1766,6 +1850,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-08 18:41:46 +0000"
@@ -1832,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-08 18:36:30 +0000"
@@ -1841,6 +1937,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2025-03-08 18:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1859,6 +1961,12 @@
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-03-08 18:27:42 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/ruby_laser": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -1955,6 +2063,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-08 18:29:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -2134,6 +2248,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-08 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -2399,6 +2519,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-03-08 18:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
@@ -2802,6 +2928,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-08 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-03-08 18:45:38 +0000"
     },
     "done": true
   },
