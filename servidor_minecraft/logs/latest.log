@@ -6402,3 +6402,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 19:04:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [The Wind Darkening]
 [08Mar2025 19:05:52.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Multi-Disciplined]
 [08Mar2025 19:07:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by Zombie
+[08Mar2025 19:12:37.953] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:14:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2 entities to JugoRica
+[08Mar2025 19:14:27.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/7560, l='ServerLevel[world]', x=2199.52, y=9.00, z=-28.19, removed=DISCARDED]
+[08Mar2025 19:14:27.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:14:41.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has reached the goal [Exorcism]
+[08Mar2025 19:15:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Monster Hunter]
+[08Mar2025 19:15:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Good Demoman]
+[08Mar2025 19:16:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Alex's Caves]
+[08Mar2025 19:16:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Alex's Caves]
+[08Mar2025 19:17:08.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:17:23.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Life turned out to be a comedy]
+[08Mar2025 19:17:33.555] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:17:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica was slain by Zombie Bruiser
+[08Mar2025 19:17:36.757] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Mar2025 19:17:36.758] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[08Mar2025 19:17:36.758] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[08Mar2025 19:17:36.758] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[08Mar2025 19:17:36.759] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[08Mar2025 19:17:37.966] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:17:37.969] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 19:17:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by Zombie Bruiser
+[08Mar2025 19:17:49.396] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 19:19:02.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JugoRica to 2120.500000, -49.000000, 71.500000
+[08Mar2025 19:19:10.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was slain by Zombie Villager
+[08Mar2025 19:19:29.403] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/7560, l='ServerLevel[world]', x=2199.52, y=9.00, z=-28.19, removed=DISCARDED]
+[08Mar2025 19:19:30.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2 entities to JugoRica
+[08Mar2025 19:19:30.435] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/7560, l='ServerLevel[world]', x=2199.52, y=9.00, z=-28.19, removed=DISCARDED]
