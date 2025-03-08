@@ -9327,6 +9327,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-03-08 22:24:12 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/glow_ink_pasta": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-08 21:19:38 +0000"
@@ -9396,6 +9402,12 @@
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2025-03-08 21:10:08 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-08 22:24:12 +0000"
     },
     "done": true
   },
@@ -9492,6 +9504,12 @@
   "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-03-08 22:24:12 +0000"
     },
     "done": true
   },
@@ -9639,6 +9657,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-03-08 22:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-03-08 21:23:32 +0000"
@@ -9678,6 +9702,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-08 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-03-08 22:24:12 +0000"
     },
     "done": true
   },
