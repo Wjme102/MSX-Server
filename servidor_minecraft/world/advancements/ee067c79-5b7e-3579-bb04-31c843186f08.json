@@ -660,9 +660,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-08 20:35:15 +0000",
+      "minecraft:taiga": "2025-03-08 20:34:38 +0000",
       "minecraft:beach": "2025-03-08 19:32:09 +0000",
       "minecraft:river": "2025-03-08 18:28:00 +0000",
+      "minecraft:cold_ocean": "2025-03-08 20:35:54 +0000",
       "minecraft:forest": "2025-03-08 18:22:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-08 20:36:29 +0000",
       "minecraft:ocean": "2025-03-08 20:08:10 +0000",
       "minecraft:plains": "2025-03-08 18:28:06 +0000"
     },
@@ -6494,79 +6498,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-08 20:29:27 +0000",
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-08 20:29:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-08 20:22:38 +0000"
@@ -6576,12 +6507,6 @@
   "rubinated_nether:recipes/misc/freezer_crafting": {
     "criteria": {
       "has_copper_block": "2025-03-08 20:22:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-03-08 20:23:53 +0000"
     },
     "done": true
   },
@@ -6624,6 +6549,228 @@
   "rubinated_nether:recipes/misc/ruby_chandelier": {
     "criteria": {
       "has_copper_block": "2025-03-08 20:22:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-08 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-08 20:35:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-08 20:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 20:35:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-08 20:38:01 +0000"
     },
     "done": true
   },

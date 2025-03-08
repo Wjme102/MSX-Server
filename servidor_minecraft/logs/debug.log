@@ -41102,3 +41102,262 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 20:31:14.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
 [08Mar2025 20:31:14.414] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4Ismael: {disabled=false, disconnected=false, uuid=ee067c79-5b7e-3579-bb04-31c843186f08, name=4Ismael, group=null}
 [08Mar2025 20:31:29.761] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:31:45.946] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/9344, l='ServerLevel[world]', x=2213.28, y=-43.00, z=-96.85, removed=DISCARDED]
+[08Mar2025 20:32:08.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3
+[08Mar2025 20:32:08.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3_bottom
+[08Mar2025 20:32:08.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave/cave_1
+[08Mar2025 20:32:08.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_2
+[08Mar2025 20:32:08.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_3
+[08Mar2025 20:32:08.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_4
+[08Mar2025 20:32:08.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_5
+[08Mar2025 20:32:08.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/spider_spawner_room
+[08Mar2025 20:32:08.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_2
+[08Mar2025 20:32:47.003] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in witherstormmod:bowels
+[08Mar2025 20:32:55.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[08Mar2025 20:32:55.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[08Mar2025 20:32:55.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/vindicator
+[08Mar2025 20:32:55.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters1
+[08Mar2025 20:32:55.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure2
+[08Mar2025 20:32:55.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_ladder
+[08Mar2025 20:32:55.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[08Mar2025 20:32:55.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_entrance
+[08Mar2025 20:32:55.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall3
+[08Mar2025 20:32:55.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall3_enchanting
+[08Mar2025 20:32:55.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_smeltery
+[08Mar2025 20:32:55.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_library
+[08Mar2025 20:32:55.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_books
+[08Mar2025 20:33:13.912] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:33:20.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[08Mar2025 20:33:20.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1
+[08Mar2025 20:33:20.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[08Mar2025 20:33:20.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_main_house_1
+[08Mar2025 20:33:20.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[08Mar2025 20:33:20.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_giant_cross_1
+[08Mar2025 20:33:20.553] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[08Mar2025 20:33:21.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[08Mar2025 20:33:21.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[08Mar2025 20:33:24.184] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/3768, l='ServerLevel[world]', x=2262.30, y=12.00, z=-193.70, removed=DISCARDED]
+[08Mar2025 20:33:56.174] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[08Mar2025 20:34:08.131] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/23888, l='ServerLevel[world]', x=4171.50, y=13.00, z=150.50]
+[08Mar2025 20:34:13.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/23934, l='ServerLevel[world]', x=4161.50, y=13.00, z=152.50]
+[08Mar2025 20:34:22.145] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24061, l='ServerLevel[world]', x=4170.50, y=13.00, z=151.50]
+[08Mar2025 20:34:25.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24116, l='ServerLevel[world]', x=4168.50, y=13.00, z=158.50]
+[08Mar2025 20:34:26.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24125, l='ServerLevel[world]', x=4147.50, y=71.00, z=296.50]
+[08Mar2025 20:34:33.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_4
+[08Mar2025 20:34:34.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin4
+[08Mar2025 20:34:36.119] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24264, l='ServerLevel[world]', x=4172.50, y=13.00, z=160.50]
+[08Mar2025 20:34:38.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24290, l='ServerLevel[world]', x=4092.50, y=73.00, z=297.50]
+[08Mar2025 20:34:41.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_2
+[08Mar2025 20:34:41.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_2
+[08Mar2025 20:34:46.524] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24393, l='ServerLevel[world]', x=4156.50, y=75.00, z=221.50]
+[08Mar2025 20:34:49.129] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24405, l='ServerLevel[world]', x=4171.50, y=13.00, z=157.50]
+[08Mar2025 20:34:53.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24435, l='ServerLevel[world]', x=4172.50, y=13.00, z=157.50]
+[08Mar2025 20:34:59.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1
+[08Mar2025 20:34:59.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1_bottom
+[08Mar2025 20:34:59.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave/cave_2
+[08Mar2025 20:34:59.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_1
+[08Mar2025 20:34:59.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_2
+[08Mar2025 20:34:59.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_2
+[08Mar2025 20:34:59.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_6
+[08Mar2025 20:34:59.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_3
+[08Mar2025 20:34:59.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_9
+[08Mar2025 20:35:01.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24516, l='ServerLevel[world]', x=4192.50, y=75.00, z=306.50]
+[08Mar2025 20:35:06.431] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[08Mar2025 20:35:23.093] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in undergarden:undergarden
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Mar2025 20:35:26.103] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Mar2025 20:35:26.104] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Mar2025 20:35:26.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 20:35:26.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 20:35:29.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24827, l='ServerLevel[world]', x=4092.50, y=77.00, z=336.50]
+[08Mar2025 20:35:30.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[08Mar2025 20:35:46.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/24943, l='ServerLevel[world]', x=4172.50, y=13.00, z=150.50]
+[08Mar2025 20:36:03.561] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:36:04.969] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[08Mar2025 20:36:04.971] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[08Mar2025 20:36:15.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:small_ship
+[08Mar2025 20:36:34.998] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[08Mar2025 20:36:37.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fountain
+[08Mar2025 20:36:37.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_2
+[08Mar2025 20:36:37.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_3
+[08Mar2025 20:36:37.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_2
+[08Mar2025 20:36:37.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[08Mar2025 20:36:37.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_1
+[08Mar2025 20:36:37.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:villager
+[08Mar2025 20:36:37.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_1
+[08Mar2025 20:36:37.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:mason_1
+[08Mar2025 20:36:37.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_1
+[08Mar2025 20:36:37.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_5
+[08Mar2025 20:36:37.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fletcher_1
+[08Mar2025 20:36:37.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_2
+[08Mar2025 20:36:37.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:loom_1
+[08Mar2025 20:36:37.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_4
+[08Mar2025 20:36:55.006] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in voidscape:void
+[08Mar2025 20:37:10.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26802, l='ServerLevel[world]', x=3744.50, y=52.00, z=140.50]
+[08Mar2025 20:37:15.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin5
+[08Mar2025 20:37:15.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[08Mar2025 20:38:57.757] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[08Mar2025 20:39:07.353] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Mar2025 20:40:02.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[08Mar2025 20:40:10.976] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Mar2025 20:40:26.041] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Mar2025 20:40:26.042] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Mar2025 20:40:26.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 20:40:26.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 20:41:13.512] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[08Mar2025 20:41:21.002] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[08Mar2025 20:41:40.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29320, l='ServerLevel[world]', x=3384.50, y=58.00, z=176.50]
