@@ -6729,3 +6729,105 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Mar2025 20:51:35.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32970, l='ServerLevel[world]', x=4192.50, y=75.00, z=304.50]
 [08Mar2025 20:51:48.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33052, l='ServerLevel[world]', x=4063.50, y=79.00, z=323.50]
 [08Mar2025 20:52:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Bloodthirsty]
+[08Mar2025 20:52:15.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33185, l='ServerLevel[world]', x=4087.50, y=83.00, z=399.50]
+[08Mar2025 20:52:46.564] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:52:49.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33290, l='ServerLevel[world]', x=4110.50, y=83.00, z=415.50]
+[08Mar2025 20:53:08.827] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33392, l='ServerLevel[world]', x=4154.50, y=72.00, z=226.50]
+[08Mar2025 20:53:21.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33452, l='ServerLevel[world]', x=4198.50, y=71.00, z=319.50]
+[08Mar2025 20:53:44.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33592, l='ServerLevel[world]', x=4054.50, y=72.00, z=335.50]
+[08Mar2025 20:53:53.179] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33619, l='ServerLevel[world]', x=4136.50, y=75.00, z=440.50]
+[08Mar2025 20:54:13.131] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33645, l='ServerLevel[world]', x=4141.50, y=75.00, z=430.50]
+[08Mar2025 20:54:17.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33680, l='ServerLevel[world]', x=4140.50, y=75.00, z=430.50]
+[08Mar2025 20:54:38.473] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:54:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Penteconter]
+[08Mar2025 20:54:43.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33770, l='ServerLevel[world]', x=4103.50, y=79.00, z=389.50]
+[08Mar2025 20:54:46.529] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33780, l='ServerLevel[world]', x=4193.50, y=75.00, z=304.50]
+[08Mar2025 20:55:13.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33905, l='ServerLevel[world]', x=4126.50, y=81.00, z=396.50]
+[08Mar2025 20:55:58.555] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:56:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Junior Summoner]
+[08Mar2025 20:56:06.530] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34142, l='ServerLevel[world]', x=4090.50, y=77.00, z=336.50]
+[08Mar2025 20:56:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Surge Protector]
+[08Mar2025 20:56:16.704] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:56:19.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34219, l='ServerLevel[world]', x=4137.50, y=75.00, z=440.50]
+[08Mar2025 20:56:21.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[08Mar2025 20:56:21.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[08Mar2025 20:56:21.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[08Mar2025 20:56:34.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:62828] logged in with entity id 34286 at (4183.331362369577, 65.0, 332.1678736855412)
+[08Mar2025 20:56:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[08Mar2025 20:56:34.804] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:56:34.869] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[08Mar2025 20:56:35.408] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[08Mar2025 20:56:35.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[08Mar2025 20:56:35.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[08Mar2025 20:56:36.877] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34311, l='ServerLevel[world]', x=4139.50, y=79.00, z=463.50]
+[08Mar2025 20:56:37.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:56:38.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:56:38.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[08Mar2025 20:56:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica died
+[08Mar2025 20:56:59.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica was kicked for floating too long!
+[08Mar2025 20:57:00.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica lost connection: Flying is not enabled on this server
+[08Mar2025 20:57:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica left the game
+[08Mar2025 20:57:00.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JugoRica
+[08Mar2025 20:57:06.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JugoRica[/100.100.23.46:49393] logged in with entity id 34682 at (3775.527541843699, 105.71937968662805, 82.24897959357267)
+[08Mar2025 20:57:06.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica joined the game
+[08Mar2025 20:57:06.525] [Server thread/INFO] [Jade/]: Syncing config to JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2)
+[08Mar2025 20:57:06.750] [Server thread/INFO] [ping-wheel/]: Channel update: JugoRica -> default
+[08Mar2025 20:57:06.751] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JugoRica (18)
+[08Mar2025 20:57:06.751] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JugoRica
+[08Mar2025 20:57:10.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[08Mar2025 20:57:11.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[08Mar2025 20:57:11.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2) successfully connected to voice chat
+[08Mar2025 20:58:16.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[08Mar2025 20:58:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[08Mar2025 20:58:16.663] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[08Mar2025 20:58:27.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:62857] logged in with entity id 35716 at (4203.024684896018, 65.5, 334.06520780931)
+[08Mar2025 20:58:27.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[08Mar2025 20:58:27.761] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[08Mar2025 20:58:28.342] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[08Mar2025 20:58:28.344] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[08Mar2025 20:58:28.344] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[08Mar2025 20:58:30.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:58:31.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 20:58:31.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[08Mar2025 20:58:44.013] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:59:20.054] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:59:34.261] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 20:59:35.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36305, l='ServerLevel[world]', x=4115.50, y=77.00, z=438.50]
+[08Mar2025 21:00:08.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[08Mar2025 21:00:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[08Mar2025 21:00:08.651] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[08Mar2025 21:00:08.853] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 21:00:17.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:62886] logged in with entity id 36627 at (4217.55190478501, 64.0, 322.8197724838915)
+[08Mar2025 21:00:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[08Mar2025 21:00:17.306] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[08Mar2025 21:00:17.862] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[08Mar2025 21:00:17.862] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[08Mar2025 21:00:17.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[08Mar2025 21:00:19.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 21:00:20.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 21:00:20.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[08Mar2025 21:00:22.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[08Mar2025 21:00:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[08Mar2025 21:00:22.062] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[08Mar2025 21:00:23.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36698, l='ServerLevel[world]', x=4062.50, y=79.00, z=321.50]
+[08Mar2025 21:00:39.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36788, l='ServerLevel[world]', x=4204.50, y=70.00, z=348.50]
+[08Mar2025 21:01:05.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica was slain by Zombie
+[08Mar2025 21:01:06.636] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 21:01:15.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:62914] logged in with entity id 37306 at (4217.846804736993, 64.0, 322.2569946978806)
+[08Mar2025 21:01:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[08Mar2025 21:01:15.227] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[08Mar2025 21:01:15.779] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[08Mar2025 21:01:15.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[08Mar2025 21:01:15.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[08Mar2025 21:01:17.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/32512, l='ServerLevel[world]', x=4202.06, y=71.00, z=329.50] died, message: 'Leatherworker was slain by Zombie'
+[08Mar2025 21:01:17.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 21:01:18.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[08Mar2025 21:01:18.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[08Mar2025 21:01:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael was shot by Missionary
+[08Mar2025 21:01:18.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32511, l='ServerLevel[world]', x=4201.70, y=71.75, z=330.63] died, message: 'Nitwit was slain by Zombie'
+[08Mar2025 21:01:27.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 21:01:34.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica was slain by Siamese Skeletons
+[08Mar2025 21:01:39.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 2 entities to JugoRica
+[08Mar2025 21:01:52.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38050, l='ServerLevel[world]', x=4103.50, y=84.00, z=419.50]
+[08Mar2025 21:01:58.755] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Old Miners Bundle'/25158, l='ServerLevel[world]', x=4131.07, y=15.00, z=262.17, removed=DISCARDED]
+[08Mar2025 21:02:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica was shot by Skeleton

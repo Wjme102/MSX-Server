@@ -8863,5 +8863,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-03-08 20:56:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
