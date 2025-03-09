@@ -8994,9 +8994,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-09 20:36:15 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/sediment_glass": {
+    "criteria": {
+      "has_undergarden:sediment": "2025-03-09 20:23:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/food/veiled_stew": {
     "criteria": {
       "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/depthrock_brick_wall": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
     },
     "done": true
   },
@@ -9006,9 +9060,81 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_depthrock_bricks": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_stairs": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tiles": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/misc/blisterbomb": {
     "criteria": {
       "has_twistytwig": "2025-03-09 20:00:47 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_chiseled_depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_slab": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-03-09 20:35:47 +0000"
     },
     "done": true
   },

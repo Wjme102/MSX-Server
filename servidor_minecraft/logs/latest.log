@@ -6468,3 +6468,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 19:28:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Spectator Mode]
 [09Mar2025 19:29:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Survival Mode]
 [09Mar2025 19:36:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Made 4Ismael no longer a server operator]
+[09Mar2025 20:28:25.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JugoRica[/100.100.23.46:56249] logged in with entity id 7704 at (4169.9471019311895, 63.0, 217.7910226259014)
+[09Mar2025 20:28:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica joined the game
+[09Mar2025 20:28:25.646] [Server thread/INFO] [Jade/]: Syncing config to JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2)
+[09Mar2025 20:28:27.170] [Server thread/INFO] [ping-wheel/]: Channel update: JugoRica -> default
+[09Mar2025 20:28:27.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JugoRica (18)
+[09Mar2025 20:28:27.170] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JugoRica
+[09Mar2025 20:28:35.725] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[09Mar2025 20:28:36.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[09Mar2025 20:28:36.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2) successfully connected to voice chat
+[09Mar2025 20:33:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JugoRica> xaero-waypoint:PORTAL UNDEGARDEN:P:1043:81:50:1:false:0:Internal-dim%undergarden$undergarden-waypoints
+[09Mar2025 20:35:51.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Multi-Disciplined]
+[09Mar2025 20:38:58.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10612, l='ServerLevel[world]', x=3583.50, y=71.00, z=294.50]
