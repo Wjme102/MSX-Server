@@ -6283,3 +6283,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 18:48:51.801] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [09Mar2025 18:48:51.877] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "copycats"
 [09Mar2025 18:48:55.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[09Mar2025 19:10:23.429] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.common.mixins.json:PacketEncoderMixin->@ModifyConstant::newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:PacketEncoderMixin->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000
+[09Mar2025 19:10:23.521] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[09Mar2025 19:10:23.523] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[09Mar2025 19:10:23.524] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[09Mar2025 19:10:28.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:53657] logged in with entity id 193 at (4171.115181354328, 63.0, 215.27137609151146)
+[09Mar2025 19:10:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[09Mar2025 19:10:30.031] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[09Mar2025 19:10:30.150] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[09Mar2025 19:10:30.157] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[09Mar2025 19:10:30.162] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[09Mar2025 19:10:30.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[09Mar2025 19:10:37.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[09Mar2025 19:10:38.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[09Mar2025 19:10:38.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat
+[09Mar2025 19:10:50.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
