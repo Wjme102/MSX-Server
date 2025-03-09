@@ -6519,3 +6519,139 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 21:50:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [We Need to Go Deeper]
 [09Mar2025 21:50:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Incendium]
 [09Mar2025 21:50:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica has made the advancement [Nether Depths Upgrade]
+[09Mar2025 21:50:53.180] [Worker-Main-52/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22324, l='ServerLevel[world]', x=559.00, y=31.00, z=-15.10] as it would cause deadlock
+[09Mar2025 21:50:58.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica lost connection: Disconnected
+[09Mar2025 21:50:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica left the game
+[09Mar2025 21:50:58.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JugoRica
+[09Mar2025 21:50:58.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27605ms or 552 ticks behind
+[09Mar2025 21:50:59.000] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Mar2025 21:51:01.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JugoRica[/100.100.23.46:58943] logged in with entity id 22344 at (515.6999999880791, 33.0, 26.5)
+[09Mar2025 21:51:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica joined the game
+[09Mar2025 21:51:01.608] [Server thread/INFO] [Jade/]: Syncing config to JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2)
+[09Mar2025 21:51:01.796] [Server thread/INFO] [ping-wheel/]: Channel update: JugoRica -> default
+[09Mar2025 21:51:01.796] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JugoRica (18)
+[09Mar2025 21:51:01.797] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JugoRica
+[09Mar2025 21:51:05.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[09Mar2025 21:51:06.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96790dc5-2e88-3327-84fc-3f6a2a6722e2
+[09Mar2025 21:51:06.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JugoRica (96790dc5-2e88-3327-84fc-3f6a2a6722e2) successfully connected to voice chat
+[09Mar2025 21:51:07.451] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Mar2025 21:51:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [We Need to Go Deeper]
+[09Mar2025 21:51:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Incendium]
+[09Mar2025 21:51:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Nether Depths Upgrade]
+[09Mar2025 21:51:08.688] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.689] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.689] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.689] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.689] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.698] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.721] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.721] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.998] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.998] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.998] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:08.999] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.022] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[09Mar2025 21:51:09.022] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.022] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.022] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.022] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.025] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.026] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.034] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.034] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.036] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.040] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.048] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.048] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.048] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.049] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.049] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.049] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.064] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.065] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.075] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.075] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.075] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.076] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.085] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.086] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.086] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.087] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.106] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:51:09.106] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:22.510] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[09Mar2025 21:51:51.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ee067c79-5b7e-3579-bb04-31c843186f08 timed out
+[09Mar2025 21:51:39.891] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[09Mar2025 21:52:25.954] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[09Mar2025 21:52:25.954] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:25.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player 4Ismael
+[09Mar2025 21:52:25.954] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.325] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.325] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.325] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[09Mar2025 21:52:27.327] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.328] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.328] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[09Mar2025 21:52:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[09Mar2025 21:52:27.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[09Mar2025 21:52:27.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 96790dc5-2e88-3327-84fc-3f6a2a6722e2 timed out
+[09Mar2025 21:52:27.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JugoRica
+[09Mar2025 21:52:27.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JugoRica
+[09Mar2025 21:52:27.348] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.352] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.355] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.355] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.355] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.357] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.357] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JugoRica lost connection: Disconnected
+[09Mar2025 21:52:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JugoRica left the game
+[09Mar2025 21:52:27.368] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JugoRica
+[09Mar2025 21:52:27.379] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.379] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@664be696[id=<null>,name=4Ismael,properties={},legacy=false] (/100.95.133.8:57231) lost connection: Disconnected
+[09Mar2025 21:52:27.401] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.402] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.403] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.409] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.410] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.422] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.422] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.422] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 64914ms or 1298 ticks behind
+[09Mar2025 21:52:27.450] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.450] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.451] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.451] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[09Mar2025 21:52:27.451] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.451] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:27.451] [Worker-Main-43/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[09Mar2025 21:52:28.284] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 54cbef5f-9e31-4f5c-b3e5-5f849316b26c
+[09Mar2025 21:52:29.759] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e3336318-841e-46fe-9e93-dec083b7d7ca
+[09Mar2025 21:52:29.760] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/MSX-Server/servidor_minecraft/./crash-reports/crash-2025-03-09_21.52.29-server.txt
+[09Mar2025 21:52:29.826] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[09Mar2025 21:52:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 21:52:29.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 21:52:29.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 21:52:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Mar2025 21:52:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Mar2025 21:52:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[09Mar2025 21:52:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Mar2025 21:52:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[09Mar2025 21:52:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[09Mar2025 21:52:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[09Mar2025 21:52:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
