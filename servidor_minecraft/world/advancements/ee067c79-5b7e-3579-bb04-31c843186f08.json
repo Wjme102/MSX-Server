@@ -8994,5 +8994,17 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/blisterbomb": {
+    "criteria": {
+      "has_twistytwig": "2025-03-09 20:00:47 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/undergarden_lead": {
+    "criteria": {
+      "has_twistytwig": "2025-03-09 20:00:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
