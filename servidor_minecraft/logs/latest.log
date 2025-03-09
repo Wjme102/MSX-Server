@@ -6480,3 +6480,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 20:33:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JugoRica> xaero-waypoint:PORTAL UNDEGARDEN:P:1043:81:50:1:false:0:Internal-dim%undergarden$undergarden-waypoints
 [09Mar2025 20:35:51.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael has made the advancement [Multi-Disciplined]
 [09Mar2025 20:38:58.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10612, l='ServerLevel[world]', x=3583.50, y=71.00, z=294.50]
+[09Mar2025 20:41:37.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[09Mar2025 20:47:13.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
+[09Mar2025 20:47:13.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
+[09Mar2025 20:47:13.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
