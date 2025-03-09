@@ -11096,15 +11096,33 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2025-03-09 21:08:48 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/redstone/firework_bundle": {
     "criteria": {
       "has_barrel": "2025-03-09 20:58:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 21:00:36 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/misc/regalium_block_to_crystal": {
     "criteria": {
       "has_regalium_block": "2025-03-09 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-09 21:00:36 +0000"
     },
     "done": true
   },
@@ -11117,6 +11135,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-03-09 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 21:00:36 +0000"
     },
     "done": true
   },
