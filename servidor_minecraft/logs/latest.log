@@ -6466,3 +6466,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 19:26:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Spectator Mode]
 [09Mar2025 19:27:53.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Survival Mode]
 [09Mar2025 19:28:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Spectator Mode]
+[09Mar2025 19:29:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Set own game mode to Survival Mode]
+[09Mar2025 19:36:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [4Ismael: Made 4Ismael no longer a server operator]
