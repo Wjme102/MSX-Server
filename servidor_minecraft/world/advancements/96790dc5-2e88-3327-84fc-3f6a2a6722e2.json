@@ -4397,7 +4397,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-03-09 20:58:14 +0000",
       "smoker": "2025-03-06 01:06:56 +0000",
+      "smithingtable": "2025-03-09 20:58:14 +0000",
       "blastfurnace": "2025-03-08 22:40:29 +0000",
       "stonecutter": "2025-03-08 21:42:44 +0000"
     },
@@ -11094,9 +11096,33 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-03-09 20:58:14 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/misc/regalium_block_to_crystal": {
     "criteria": {
       "has_regalium_block": "2025-03-09 20:30:14 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-03-09 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-09 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-09 20:58:14 +0000"
     },
     "done": true
   },

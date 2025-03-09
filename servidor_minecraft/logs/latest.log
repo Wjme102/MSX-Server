@@ -6484,3 +6484,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 20:47:13.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4Ismael lost connection: Disconnected
 [09Mar2025 20:47:13.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael left the game
 [09Mar2025 20:47:13.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4Ismael
+[09Mar2025 20:51:46.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13845, l='ServerLevel[world]', x=3448.50, y=62.00, z=718.50]
+[09Mar2025 20:52:23.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13924, l='ServerLevel[world]', x=3448.50, y=62.00, z=719.50]
+[09Mar2025 20:52:49.515] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13992, l='ServerLevel[world]', x=3449.50, y=62.00, z=718.50]
+[09Mar2025 20:57:44.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15214, l='ServerLevel[world]', x=3449.50, y=85.00, z=709.50]
+[09Mar2025 20:58:59.023] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3418, y=63, z=694} from item 0 air and block pumpkin_seeds: 
+[09Mar2025 20:59:04.165] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15304, l='ServerLevel[world]', x=3450.50, y=85.00, z=709.50]
+[09Mar2025 20:59:27.071] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=3420, y=63, z=693} from item 0 air and block pumpkin_seeds: 
+[09Mar2025 20:59:30.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15356, l='ServerLevel[world]', x=3450.50, y=85.00, z=707.50]
