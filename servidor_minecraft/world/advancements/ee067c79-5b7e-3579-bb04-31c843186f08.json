@@ -8994,6 +8994,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/food/veiled_stew": {
+    "criteria": {
+      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/veil_mushroom_to_dye": {
+    "criteria": {
+      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/misc/blisterbomb": {
     "criteria": {
       "has_twistytwig": "2025-03-09 20:00:47 +0000"
