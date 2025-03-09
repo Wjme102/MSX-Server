@@ -50149,3 +50149,319 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 00:05:26.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Mar2025 00:05:26.207] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
 [09Mar2025 00:05:29.001] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[09Mar2025 00:07:39.004] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[09Mar2025 00:08:56.001] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Mar2025 00:10:26.045] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Mar2025 00:10:26.046] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[09Mar2025 00:10:26.046] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[09Mar2025 00:10:26.047] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[09Mar2025 00:10:26.050] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Mar2025 00:10:26.050] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Mar2025 00:10:26.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 00:10:26.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 00:10:27.626] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
+[09Mar2025 00:12:25.438] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[09Mar2025 00:13:42.001] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[09Mar2025 00:14:25.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/57849, l='ServerLevel[world]', x=4139.50, y=79.00, z=464.50]
+[09Mar2025 00:14:28.959] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[09Mar2025 00:14:28.960] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-222
+[09Mar2025 00:14:45.781] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[09Mar2025 00:14:47.758] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[09Mar2025 00:14:47.764] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[09Mar2025 00:14:47.769] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[09Mar2025 00:14:47.775] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[09Mar2025 00:14:47.782] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[09Mar2025 00:14:47.788] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[09Mar2025 00:14:47.795] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[09Mar2025 00:14:47.799] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[09Mar2025 00:14:47.807] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[09Mar2025 00:14:47.814] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[09Mar2025 00:14:47.828] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock3
+[09Mar2025 00:14:47.838] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[09Mar2025 00:14:47.846] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin1
+[09Mar2025 00:14:49.476] [Worker-Main-210/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[09Mar2025 00:14:54.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58238, l='ServerLevel[world]', x=4097.50, y=74.00, z=545.50]
+[09Mar2025 00:14:55.917] [IO-Worker-220/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
+[09Mar2025 00:14:55.946] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_1
+[09Mar2025 00:14:55.960] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_4
+[09Mar2025 00:14:55.966] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_2
+[09Mar2025 00:14:55.968] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_5
+[09Mar2025 00:14:55.971] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_3
+[09Mar2025 00:14:55.973] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_3
+[09Mar2025 00:14:55.976] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_1
+[09Mar2025 00:14:55.980] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_2
+[09Mar2025 00:14:55.982] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_2
+[09Mar2025 00:14:55.986] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_1
+[09Mar2025 00:14:55.989] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_straight_2
+[09Mar2025 00:14:55.992] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_3
+[09Mar2025 00:14:55.994] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_1
+[09Mar2025 00:14:55.996] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_2
+[09Mar2025 00:14:55.997] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/mid/tower_middle_1
+[09Mar2025 00:14:56.001] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_7
+[09Mar2025 00:14:56.004] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_4
+[09Mar2025 00:14:56.006] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_3
+[09Mar2025 00:14:56.008] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_7
+[09Mar2025 00:14:56.010] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_6
+[09Mar2025 00:14:56.012] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_5
+[09Mar2025 00:14:56.014] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/down/stairs_down_1
+[09Mar2025 00:14:56.018] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_4
+[09Mar2025 00:14:56.020] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_10
+[09Mar2025 00:14:56.023] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_9
+[09Mar2025 00:14:56.024] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/empty
+[09Mar2025 00:14:56.026] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_7
+[09Mar2025 00:14:56.027] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corner_filler
+[09Mar2025 00:14:56.028] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/down/stairs_down_2
+[09Mar2025 00:14:56.030] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_3
+[09Mar2025 00:14:56.033] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_21
+[09Mar2025 00:14:56.035] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_5
+[09Mar2025 00:14:56.036] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_1
+[09Mar2025 00:14:56.041] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_2
+[09Mar2025 00:14:56.043] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_7
+[09Mar2025 00:14:56.046] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_3
+[09Mar2025 00:14:56.048] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_8
+[09Mar2025 00:14:56.049] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_2
+[09Mar2025 00:14:56.051] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_4
+[09Mar2025 00:14:56.052] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/wall_1
+[09Mar2025 00:14:56.054] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_4
+[09Mar2025 00:14:56.056] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_5
+[09Mar2025 00:14:56.058] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_6
+[09Mar2025 00:14:56.075] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/boss_room
+[09Mar2025 00:14:56.082] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/top/tower_top_1
+[09Mar2025 00:14:56.083] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_6
+[09Mar2025 00:14:56.087] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_4
+[09Mar2025 00:14:56.093] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_9
+[09Mar2025 00:14:56.094] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_1
+[09Mar2025 00:14:56.096] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_13
+[09Mar2025 00:14:56.097] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_2
+[09Mar2025 00:14:56.097] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_2
+[09Mar2025 00:14:56.101] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_28
+[09Mar2025 00:14:56.102] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_5
+[09Mar2025 00:14:56.102] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_4
+[09Mar2025 00:14:56.103] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/up/stairs_up_2
+[09Mar2025 00:14:56.104] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_9
+[09Mar2025 00:14:56.107] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_15
+[09Mar2025 00:14:56.108] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_6
+[09Mar2025 00:14:56.109] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_2
+[09Mar2025 00:14:56.112] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_3
+[09Mar2025 00:14:56.113] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_1
+[09Mar2025 00:14:56.113] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_bottom
+[09Mar2025 00:14:56.115] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_31
+[09Mar2025 00:14:56.116] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/stairs/up/stairs_up_1
+[09Mar2025 00:14:56.117] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_8
+[09Mar2025 00:14:56.118] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_mid_2
+[09Mar2025 00:14:56.122] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_10
+[09Mar2025 00:14:56.123] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/base/wall_outer_base_3
+[09Mar2025 00:14:56.124] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_5
+[09Mar2025 00:14:56.125] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_2
+[09Mar2025 00:14:56.126] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/inner/wall_6
+[09Mar2025 00:14:56.127] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_33
+[09Mar2025 00:14:56.128] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_7
+[09Mar2025 00:14:56.129] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_7
+[09Mar2025 00:14:56.129] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_3
+[09Mar2025 00:14:56.130] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/wall_outer_3
+[09Mar2025 00:14:56.131] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_29
+[09Mar2025 00:14:56.137] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_8
+[09Mar2025 00:14:56.140] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_1
+[09Mar2025 00:14:56.142] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_24
+[09Mar2025 00:14:56.143] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_3
+[09Mar2025 00:14:56.144] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/tower/base/tower_base_1
+[09Mar2025 00:14:56.146] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_30
+[09Mar2025 00:14:56.149] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_5
+[09Mar2025 00:14:56.154] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_11
+[09Mar2025 00:14:56.156] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_19
+[09Mar2025 00:14:56.157] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_2
+[09Mar2025 00:14:56.158] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_25
+[09Mar2025 00:14:56.159] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_top
+[09Mar2025 00:14:56.161] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_6
+[09Mar2025 00:14:56.162] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/outer/window/wall_window_4
+[09Mar2025 00:14:56.165] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/entrance/entrance_1
+[09Mar2025 00:14:56.257] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[09Mar2025 00:14:57.972] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[09Mar2025 00:14:58.068] [Worker-Main-215/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[09Mar2025 00:14:59.968] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[09Mar2025 00:15:07.269] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[09Mar2025 00:15:07.271] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Mar2025 00:15:07.271] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Mar2025 00:15:07.271] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Mar2025 00:15:07.271] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Mar2025 00:15:14.568] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[09Mar2025 00:15:14.577] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[09Mar2025 00:15:14.591] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[09Mar2025 00:15:14.612] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[09Mar2025 00:15:14.643] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[09Mar2025 00:15:14.646] [Worker-Main-5/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3 is being run through DFU (hash 20080de75a183b30b4ea9d8c8d66a26f5a3ee8593a0c4c58b6e712bdacb0aaf6), this will cause launch time delays
+[09Mar2025 00:15:14.748] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[09Mar2025 00:15:14.760] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[09Mar2025 00:15:14.768] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[09Mar2025 00:15:14.794] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[09Mar2025 00:15:14.803] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[09Mar2025 00:15:14.807] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[09Mar2025 00:15:14.814] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[09Mar2025 00:15:14.827] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[09Mar2025 00:15:14.834] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[09Mar2025 00:15:14.843] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[09Mar2025 00:15:14.855] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[09Mar2025 00:15:14.862] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[09Mar2025 00:15:14.870] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[09Mar2025 00:15:14.879] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[09Mar2025 00:15:18.449] [Worker-Main-210/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[09Mar2025 00:15:20.002] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[09Mar2025 00:15:22.798] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:processor_condition_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:placement_condition_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Mar2025 00:15:26.035] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: lithostitched:modifier_predicate_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Mar2025 00:15:26.036] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Mar2025 00:15:26.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 00:15:26.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 00:15:28.268] [Worker-Main-213/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[09Mar2025 00:15:34.176] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[09Mar2025 00:15:34.379] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[09Mar2025 00:15:34.386] [Worker-Main-52/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[09Mar2025 00:15:34.477] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
