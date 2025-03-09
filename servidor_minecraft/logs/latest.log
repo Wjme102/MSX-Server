@@ -6504,3 +6504,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Mar2025 21:10:47.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/16960, l='ServerLevel[world]', x=3607.14, y=67.00, z=496.09] died: Angry Creeper was slain by JugoRica
 [09Mar2025 21:11:05.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/16291, l='ServerLevel[world]', x=3660.52, y=70.00, z=475.40] died, message: 'Fisherman was slain by Zombie'
 [09Mar2025 21:13:59.165] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18397, l='ServerLevel[world]', x=4043.50, y=72.00, z=413.50]
+[09Mar2025 21:20:19.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4Ismael[/100.95.133.8:56811] logged in with entity id 19090 at (4172.067287791912, 63.0, 220.10596796381034)
+[09Mar2025 21:20:19.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4Ismael joined the game
+[09Mar2025 21:20:19.216] [Server thread/INFO] [Jade/]: Syncing config to 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08)
+[09Mar2025 21:20:19.414] [Server thread/INFO] [ping-wheel/]: Channel update: 4Ismael -> default
+[09Mar2025 21:20:19.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4Ismael (18)
+[09Mar2025 21:20:19.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4Ismael
+[09Mar2025 21:20:23.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee067c79-5b7e-3579-bb04-31c843186f08
+[09Mar2025 21:20:24.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee067c79-5b7e-3579-bb04-31c843186f08
+[09Mar2025 21:20:24.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4Ismael (ee067c79-5b7e-3579-bb04-31c843186f08) successfully connected to voice chat

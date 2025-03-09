@@ -11096,6 +11096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_healed": {
     "criteria": {
       "bleeding_healed": "2025-03-09 21:08:48 +0000"
@@ -11105,6 +11111,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-03-09 21:10:07 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/freezer_crafting": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
     },
     "done": true
   },
@@ -11144,15 +11156,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-03-09 21:12:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "shutter:recipes/misc/copper_shutter": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-03-09 21:10:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-03-09 21:24:13 +0000"
     },
     "done": true
   },
@@ -11171,6 +11225,12 @@
   "morevillagers:recipes/oceanography_table": {
     "criteria": {
       "has_barrel": "2025-03-09 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/ruby_chandelier": {
+    "criteria": {
+      "has_copper_block": "2025-03-09 21:23:29 +0000"
     },
     "done": true
   },

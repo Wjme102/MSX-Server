@@ -8995,93 +8995,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "undergarden:recipes/misc/blisterbomb": {
     "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-09 20:47:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-03-09 20:36:15 +0000"
+      "has_twistytwig": "2025-03-09 20:00:47 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "undergarden:recipes/misc/undergarden_lead": {
     "criteria": {
-      "has_upgrade_base": "2025-03-09 20:41:58 +0000"
+      "has_twistytwig": "2025-03-09 20:00:47 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_nugget": {
+  "undergarden:recipes/food/veiled_stew": {
     "criteria": {
-      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/veil_mushroom_to_dye": {
+    "criteria": {
+      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
     },
     "done": true
   },
@@ -9091,15 +9025,147 @@
     },
     "done": true
   },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/depthrock_brick_wall": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_depthrock_bricks": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_stairs": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tiles": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_chiseled_depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_slab": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-03-09 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-03-09 20:35:51 +0000"
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+  "galosphere:adventure/silver_ingot": {
     "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
+      "silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-09 20:36:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-09 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-09 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-03-09 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-09 20:41:58 +0000"
     },
     "done": true
   },
@@ -9115,18 +9181,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
@@ -9136,30 +9190,6 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/warped_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-03-09 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "galosphere:adventure/silver_ingot": {
-    "criteria": {
-      "silver_ingot": "2025-03-09 20:35:51 +0000"
     },
     "done": true
   },
@@ -9181,24 +9211,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/food/veiled_stew": {
-    "criteria": {
-      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/redstone/silver_balance": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
@@ -9217,75 +9229,15 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/depthrock_brick_wall": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/misc/veil_mushroom_to_dye": {
-    "criteria": {
-      "has_veil_mushroom": "2025-03-09 20:06:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-03-09 20:41:55 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-03-09 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_depthrock_bricks": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_stairs": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
     },
     "done": true
   },
@@ -9301,27 +9253,9 @@
     },
     "done": true
   },
-  "undergarden:recipes/building_blocks/depthrock_tiles": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/blisterbomb": {
-    "criteria": {
-      "has_twistytwig": "2025-03-09 20:00:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-03-09 20:41:55 +0000"
     },
     "done": true
   },
@@ -9349,27 +9283,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/explorers_tent": {
-    "criteria": {
-      "has_leather": "2025-03-09 20:41:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/tools/spectre_flare": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
     },
     "done": true
   },
@@ -9385,18 +9301,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-09 20:35:51 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_chiseled_depthrock_bricks_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
@@ -9409,33 +9313,9 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/birch_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_slab": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-09 20:42:15 +0000"
     },
     "done": true
   },
@@ -9463,12 +9343,6 @@
     },
     "done": true
   },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_wall_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-03-09 20:24:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
@@ -9487,21 +9361,93 @@
     },
     "done": true
   },
-  "railways:recipes/misc/stonecutting/riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-03-09 20:35:47 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-09 20:41:58 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/misc/undergarden_lead": {
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
-      "has_twistytwig": "2025-03-09 20:00:47 +0000"
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-09 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-09 21:29:03 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-03-09 21:25:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-03-09 21:24:33 +0000"
     },
     "done": true
   },
